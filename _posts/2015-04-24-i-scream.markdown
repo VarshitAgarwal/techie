@@ -1,20 +1,28 @@
 ---
-title:  "I scream"
-subtitle: "But do you scream?"
-author: "Wferr"
+title:  "BlockChain"
+subtitle: "Crypto"
+author: "Varshit Agarwal"
 avatar: "img/authors/wferr.png"
 image: "img/e.jpg"
-date:   2015-04-24 12:12:12
+date:   2018-12-24 12:12:12
 ---
 
-### Dolor sit amet?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+### Introduction?
+You may have heard the term “blockchain technology” before, in reference to Bitcoin and other cryptocurrencies. For the uninitiated, the term might seem abstract with little real meaning on the surface. However, blockchain technology is a critical element of cryptocurrencies — without it, digital currencies like Bitcoin would not exist.
 
-### Aliquam suscipit.
-Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
+If you are new to cryptocurrencies, and new to blockchain technology, read this guide on the basics to get yourself started. If you are already a seasoned trader, maybe you’ll learn a thing or two you didn’t already know.
 
-Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
+### How Does Blockchain Work?.
+how does the blockchain work? Let’s recall a few key features before we get into the details:
 
-Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.
+1. Blockchain keeps a record of all data exchanges — this record is referred to as a “ledger” in the cryptocurrency world, and each data exchange is a “transaction“. Every verified transaction is added to the ledger as a “block”
+2. It utilizes a distributed system to verify each transaction — a peer-to-peer network of nodes
+3. Once signed and verified, the new transaction is added to the blockchain and can not be altered
 
-Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.
+To begin, we need to explore the concept of “keys”. With a set of cryptographic keys, you get a unique identity. Your keys are the Private Key and Public Key, and together they are combined to give you a digital signature. Your public key is how others are able to identify you. Your private key gives you the power to digitally sign and authorize different actions on behalf of this digital identity when used with your public key
+In the cryptocurrency world, this represents your wallet address (public key) and your private key is what let’s you authorize transfers, withdrawals, and other actions with your digital property like cryptocurrencies. As an aside, this is why it’s so important to keep your private key safe — anyone who has your private key can use it to access any of your digital assets associated with your public key and do what they want with it!
+Everytime a transaction occurs, that transaction is signed by whoever is authorizing it. That transaction might be something like “Alice is sending Bob 0.4 BTC”, will include Bob’s address (public key), and will be signed by a digital signature using both Alice’s public key and private key. This gets added to the ledger of that blockchain that Alice sent Bob 0.4 BTC, and will also include a timestamp and a unique ID number. When this transaction occurs, it’s broadcasted to a peer-to-peer network of nodes — basically other digital entities that acknowledge that this transaction has occurred and adds it to the ledger.
+
+Each transaction in that ledger will have the same data: a digital signature, a public key, a timestamp, and a unique ID. Each transaction will be connected, so if you move back one transaction in the ledger, you may see that Chuck sent Alice 0.8 BTC at some time. If you move back another transaction, you might see that Dan sent Chuck 0.2 BTC at some other time before that
+
+The anonymity of cryptocurrencies come from the fact that your public key is just a randomized sequence of numbers and letters — so you are not literally signing with your own name or some sort of handle. A public key doesn’t tell you the real identity of the person behind it. You are also more or less free to generate as many key pairs as you want and have multiple cryptocurrency wallets. Be warned though, there could be other ways someone can figure out your identity — for example, through your spending habits.
