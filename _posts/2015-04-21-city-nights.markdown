@@ -1,6 +1,6 @@
 ---
-title:  "Google Cloud Platform ."
-subtitle: "Google."
+title:  "Google Cloud Platform "
+subtitle: "Google"
 author: "Varshit Agarwal"
 avatar: "img/authors/wferr.png"
 image: "img/b.jpg"
