@@ -1,20 +1,27 @@
 ---
-title:  "Watches"
-subtitle: "The Bigger the better?"
-author: "Wferr"
+title:  "splunk"
+subtitle: "Monitoring And Analysis"
+author: "Varshit Agarwal"
 avatar: "img/authors/wferr.png"
 image: "img/c.jpg"
 date:   2015-04-22 12:12:12
 ---
 
-### Dolor sit amet?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+### Introduction
+Splunk provides the leading software platform for real-time Operational Intelligence. Splunk software and cloud services enable organizations to search, monitor, analyze and visualize machine-generated big data coming from websites, applications, servers, networks, sensors and mobile devices. Enterprises, government agencies, universities and service providers in over 90 countries use Splunk software to deepen business and customer understanding, mitigate cybersecurity risk, prevent fraud, improve service performance and reduce cost.
+### Work
+Splunk's core offering collects and analyzes high volumes of machine-generated data. It uses a standard API to connect directly to applications and devices. It was developed in response to the demand for comprehensible and actionable data reporting for executives outside a company's IT department.
 
-### Aliquam suscipit.
-Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
+Splunk Enterprise Security (ES) is a security information and event management (SIEM) solution that provides insight into machine data generated from security technologies such as network, endpoint, access, malware, vulnerability and identity information. Its a premium application that is licensed independently from Splunk core.
 
-Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
+In 2011, Splunk released Splunk Storm, a cloud-based version of the core Splunk product. Splunk Storm offered a turnkey, managed and hosted service for machine data. In 2013, Splunk announced that Splunk Storm would become a completely free service and expanded its cloud offering with Splunk Cloud. In 2015, Splunk shut down Splunk Storm.
 
-Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.
+In 2013, Splunk announced a product called Hunk: Splunk Analytics for Hadoop, which supports accessing, searching, and reporting on external data sets located in Hadoop from a Splunk interface.
 
-Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.
+In 2015, Splunk announced a Light version of the core Splunk product, aimed at smaller IT-environments and mid-sized enterprises. Splunk debuted Splunk IT Service Intelligence (ITSI) in September 2015. ITSI leverages Splunk data to provide visibility into IT performance. Software analytics can detect unusual behavior and determine its causes and the areas it affects.
+
+In 2016, Google announced its cloud platform will integrate with Splunk to expand in areas like IT ops, security, and compliance.The company also announced additional machine learning capabilities for several of its major product offerings, which are installed on top of the platform.
+
+In 2017, Splunk introduced Splunk Insights for ransomware, an analytics tool for assessing and investigating potential threats by ingesting event logs from multiple sources. The software is targeted toward smaller organizations like universities. The company also launched Splunk Insights for AWS Cloud Monitoring, a service to facilitate enterprises' migration to Amazon Web Services' cloud.
+
+In 2018, Splunk introduced Splunk Industrial Asset Intelligence, which extracts information from IIoT(Industrial Internet of Things) data from various resources and presents its users with critical alerts.
