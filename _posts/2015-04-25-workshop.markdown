@@ -1,20 +1,16 @@
 ---
-title:  "A Craftsman Workshop"
-subtitle: "It's always a bit messy"
-author: "Wferr"
+title:  "Delphix"
+subtitle: "Secure & Manage Data"
+author: "Varshit Agarwal"
 avatar: "img/authors/wferr.png"
 image: "img/f.jpg"
-date:   2015-04-25 12:12:12
+date:   2018-12-25 12:12:12
 ---
 
-### Dolor sit amet?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+### Introduction
+Delphix Corp. delivers Data as a Service solutions in data center, and private or public cloud infrastructure worldwide. The company offers Delphix, a Data as a Service software platform that helps enterprises manage and accelerate application projects, including ERP rollouts, custom development, and migrations to private and public clouds, as well as creates secure virtual copies of databases, applications, and file systems; Delphix for SAP, a software that cuts SAP upgrade, patching, and development cycles, while lowering the ongoing ownership cost of SAP systems; and Delphix Oracle EBS Module that provides upgrading of EBS environmental projects in half the time.
 
-### Aliquam suscipit.
-Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
+### About Delphix.
+Some enterprise landscapes are filled with disparate data sources including multiple data warehouses, data marts, and/or data lakes, even though a Data Warehouse, if implemented correctly, should be unique and a single source of truth. Data virtualization can efficiently bridge data across data warehouses, data marts, and data lakes without having to create a whole new integrated physical data platform. Existing data infrastructure can continue performing their core functions while the data virtualization layer just leverages the data from those sources. This aspect of data virtualization makes it complementary to all existing data sources and increases the availability and usage of enterprise data.
 
-Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
-
-Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.
-
-Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.
+Data virtualization may also be considered as an alternative to ETL and data warehousing. Data virtualization is inherently aimed at producing quick and timely insights from multiple sources without having to embark on a major data project with extensive ETL and data storage. However, data virtualization may be extended and adapted to serve data warehousing requirements also. This will require an understanding of the data storage and history requirements along with planning and design to incorporate the right type of data virtualization, integration, and storage strategies, and infrastructure/performance optimizations (e.g., streaming, in-memory, hybrid storage).
