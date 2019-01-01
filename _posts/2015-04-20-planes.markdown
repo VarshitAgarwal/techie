@@ -1,6 +1,6 @@
 ---
 title:  "Machine Learning!"
-subtitle: "Artifical Intelligence "
+subtitle: "Artificial Intelligence "
 author: "varshit"
 avatar: "img/authors/wferr.png"
 image: "img/a.jpg"
